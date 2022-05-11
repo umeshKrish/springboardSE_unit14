@@ -1,0 +1,10 @@
+1. Hypertext Transfer Protocol, a set of rules for how data are transferred between server and client
+2. Uniform Resource Locator, a host name mapped to an IP address
+3. Domain Name System, maps a URL to the corresponding IP address
+4. Allows you to look up specific data via key/value pairs
+5. GET makes requests to the server without changing server data
+POST makes requests with server data changes
+6. Request = client to server
+7. Response = server to client
+8. A header has additional metadata about a given request or response. Examples include Host, Cookie, Content-Type, and Set-Cookie
+9. The URL is mapped to an IP address and requested from the cache, router, ISP, and DNS, and when found, the browser makes a DOM for that markup.
